@@ -1,6 +1,7 @@
 # JavaScript To-Do List
 A simple To-Do List web application built using HTML, CSS, and JavaScript that allows users to add tasks and mark them as completed dynamically.
-COMPANY:AlfidoTech Solutions
+
+COMPANY:Alfido Tech
 
 NAME:B.Damini
 
